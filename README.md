@@ -9,8 +9,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0413-arithmetic-slices](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/0413-arithmetic-slices) |
+| [3618-find-the-original-typed-string-ii](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/3618-find-the-original-typed-string-ii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0413-arithmetic-slices](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/0413-arithmetic-slices) |
+## String
+|  |
+| ------- |
+| [3618-find-the-original-typed-string-ii](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/3618-find-the-original-typed-string-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3618-find-the-original-typed-string-ii](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/3618-find-the-original-typed-string-ii) |
 <!---LeetCode Topics End-->
