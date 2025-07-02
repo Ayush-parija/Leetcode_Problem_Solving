@@ -22,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3618-find-the-original-typed-string-ii](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/3618-find-the-original-typed-string-ii) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
