@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/0242-valid-anagram) |
 | [3618-find-the-original-typed-string-ii](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/3618-find-the-original-typed-string-ii) |
 ## Prefix Sum
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/0018-4sum) |
+| [0242-valid-anagram](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/0196-delete-duplicate-emails) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
