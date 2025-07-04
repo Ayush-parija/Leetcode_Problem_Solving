@@ -17,3 +17,4 @@ class Solution:
                 result.append(word)
                 
         return result
+        
