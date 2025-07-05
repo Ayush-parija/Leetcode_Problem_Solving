@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/0088-merge-sorted-array) |
 | [0413-arithmetic-slices](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/0413-arithmetic-slices) |
 | [0500-keyboard-row](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/0500-keyboard-row) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -44,12 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/0088-merge-sorted-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/0018-4sum) |
+| [0088-merge-sorted-array](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
