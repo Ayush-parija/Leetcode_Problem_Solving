@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/0018-4sum) |
 | [0413-arithmetic-slices](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/0413-arithmetic-slices) |
 | [0500-keyboard-row](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/0500-keyboard-row) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -83,4 +84,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/0242-valid-anagram) |
 | [0500-keyboard-row](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/0500-keyboard-row) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/1510-find-lucky-integer-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [1510-find-lucky-integer-in-an-array](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/1510-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
