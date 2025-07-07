@@ -3,7 +3,6 @@ import heapq
 
 class Solution:
     def maxEvents(self, events: List[List[int]]) -> int:
-        # Sort the events by start day
         events.sort()
         event_index = 0
         total_events = len(events)
