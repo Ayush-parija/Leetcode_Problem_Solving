@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/0009-palindrome-number) |
+| [0342-power-of-four](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/0342-power-of-four) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/0021-merge-two-sorted-lists) |
+| [0342-power-of-four](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/0342-power-of-four) |
 ## Stack
 |  |
 | ------- |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
