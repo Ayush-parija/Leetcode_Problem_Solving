@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/0088-merge-sorted-array) |
 | [0413-arithmetic-slices](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/0413-arithmetic-slices) |
+| [0498-diagonal-traverse](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/0500-keyboard-row) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -112,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/0342-power-of-four) |
+## Matrix
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/0498-diagonal-traverse) |
+## Simulation
+|  |
+| ------- |
+| [0498-diagonal-traverse](https://github.com/Ayush-parija/Leetcode_Problem_Solving/tree/master/0498-diagonal-traverse) |
 <!---LeetCode Topics End-->
